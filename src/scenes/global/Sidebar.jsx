@@ -23,7 +23,7 @@ const Item = ({ title, to, icon, selected, setSelected }) => {
     <MenuItem
       active={selected === title}
       style={{
-        color: colors.grey[100],
+        color: colors.grey[400],
       }}
       onClick={() => setSelected(title)}
       icon={icon}
@@ -109,7 +109,7 @@ const Sidebar = () => {
                   Shajjad Shagor
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                  VP Admin
                 </Typography>
               </Box>
             </Box>
