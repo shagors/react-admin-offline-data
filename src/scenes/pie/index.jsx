@@ -3,7 +3,7 @@ import Header from "../../components/Header";
 import PieChart from "../../components/PieChart";
 
 
-const Bar = () => {
+const Pie = () => {
   return (
     <Box m="20px">
       <Header title="Pie Chart" subtitle="Simple Pie Chart" />
@@ -14,4 +14,4 @@ const Bar = () => {
   );
 };
 
-export default Bar;
+export default Pie;
