@@ -1,8 +1,13 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+### Using tools for development
+    * React
+    * material UI
+    * material UI Icons
+    * x-data-grid
+    * formik
+    * yup
+    * fullcalendar for calendar
+    * nivo for pie, bar, line and geography chart
+    * custom theme for design
 
 
 ![preview img](./showcase/Capture1.PNG)
